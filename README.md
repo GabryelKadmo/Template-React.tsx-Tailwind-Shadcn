@@ -30,7 +30,7 @@ Este é um template moderno para desenvolvimento de aplicações React com TypeS
 
 1. **Clone o repositório:**
    ```bash
-   git clone <url-do-repositorio>
+   git clone https://github.com/GabryelKadmo/template-react.tsx-tailwind-shadcn.git
    cd Template-reactTsx-shadcn-tailwind
    ```
 

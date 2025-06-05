@@ -28,7 +28,7 @@ export default function Wip() {
                 <div className="mb-8">
                     <div className="inline-flex items-center gap-2 bg-gradient-to-r from-indigo-600 to-purple-700 text-white px-4 py-2 rounded-full text-sm font-medium mb-4">
                         <div className="w-2 h-2 bg-white rounded-full animate-pulse"></div>
-                        Template Pronto
+                        Template
                     </div>
                 </div>
 
